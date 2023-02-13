@@ -3,3 +3,4 @@ hello git
 我的第一版紀錄
 
 My first dev branch.
+new version 1.2
